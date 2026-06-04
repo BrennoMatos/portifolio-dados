@@ -1,19 +1,21 @@
-# Portfólio de Ciência de Dados
+# Portfólio de Dados
 
-Projetos desenvolvidos utilizando Python, Machine Learning e Análise de Dados.
+Repositório dedicado aos meus estudos e projetos em:
 
-## Projetos
-
-### Previsão de Custos de Manufatura
-
-Objetivo:
-Prever custos de produção em função da quantidade de unidades vendidas utilizando técnicas de regressão.
-
-Tecnologias:
+- Ciência de Dados
+- Engenharia de Dados
+- SQL
+- Power BI
+- Machine Learning
 - Python
-- Pandas
-- Matplotlib
-- Scikit-Learn
 
-Resultado:
-Modelo com capacidade de estimar custos de produção e visualizar tendências de escala.
+## Estrutura
+
+- projetos/
+- sql/
+- engenharia-dados/
+- certificados/
+
+## Sobre mim
+
+Engenheiro Químico com experiência em automação de processos e em transição para as áreas de Ciência e Engenharia de Dados.
