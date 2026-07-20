@@ -1,10 +1,10 @@
-# Power BI
+# Business Inteligence
 
-Dashboards e análises de indicadores de negócio.
+Dashboards e analyses in business indicators.
 
-## Conteúdo planejado
+## Planning Content
 
-- Dashboards financeiros
-- Dashboards operacionais
+- Financial Dashboards
+- Operational Dashboards
 - KPIs
-- Visualizações interativas
+- Interactive Visuals
