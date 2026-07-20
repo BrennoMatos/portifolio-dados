@@ -1,12 +1,13 @@
-# SQL
+# Database Management Systems
 
-Esta seção contém projetos e exercícios relacionados a SQL.
+This section contains projects relateds to SQL and NoSQL Database Servers.
 
-## Conteúdo planejado
+## Planning Contents
 
-- Consultas básicas
+- Basic Queries
 - JOINs
 - CTEs
 - Window Functions
-- Modelagem de dados
-- PostgreSQL
+- Data Modeling
+- Security and Transactions
+- Servers
