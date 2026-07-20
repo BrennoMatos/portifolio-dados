@@ -1,11 +1,10 @@
-# Engenharia de Dados
+# Data Engineering
 
-Projetos relacionados à construção de pipelines e processamento de dados.
+Projects related about the construction of pipelines and data processing.
 
-## Conteúdo planejado
+## Planning Content
 
-- ETL com Python
-- PostgreSQL
-- Docker
-- Airflow
+- ETL with Python
+- Paas and Containerization tools
+- Workflow Management Platforms
 - Data Warehousing
