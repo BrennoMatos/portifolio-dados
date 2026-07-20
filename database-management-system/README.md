@@ -1,6 +1,6 @@
 # Database Management Systems
 
-This section contains projects relateds to SQL and NoSQL Database Servers.
+This section contains projects related to SQL and NoSQL Database Servers.
 
 ## Planning Contents
 
